@@ -342,6 +342,7 @@ https://github.com/ChumbokIT[Github]
 
 |Impel IT Solutions
 |House # 1013 (2nd Floor), Road # 9A, Avenue 10,Mirpur DOHS, Dhaka,Bangladesh
+|Java,Python,Php
 |http://www.impelitsolutions.com/[Website]
 
 |===
